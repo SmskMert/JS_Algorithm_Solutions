@@ -15,6 +15,8 @@ We'll also pass strings with special symbols, such as `2A3*3a2`, `2A3 3a2`, an
 ## 2-Roman Numeral Converter
 All roman numerals answers should be provided in upper-case.
 
+![RomanToArabic](https://user-images.githubusercontent.com/109762367/232596365-616111af-9b84-4ae6-be69-58cb268d8cf1.JPG)
+
 Convert the given number into a roman numeral.
 
 ## 3-Caesars Cipher
@@ -37,6 +39,9 @@ For this challenge you will be presented with a string such as `800-692-7753` 
 
 ## 5-Cash Register
 Design a cash register drawer function `checkCashRegister()` that accepts purchase price as the first argument (`price`), payment as the second argument (`cash`), and cash-in-drawer (`cid`) as the third argument.
+
+![CurrencyUnit](https://user-images.githubusercontent.com/109762367/232596420-39d59c37-bca7-4932-973e-ec1bff9c7dc5.JPG)
+
 
 `cid` is a 2D array listing available currency.
 
